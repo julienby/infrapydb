@@ -3,6 +3,7 @@ import subprocess
 import requests
 from dotenv import load_dotenv
 import os
+import json
 
 # Charger les variables d'environnement depuis .env
 load_dotenv()
