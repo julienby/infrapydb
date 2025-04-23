@@ -1,7 +1,2 @@
-crontab==3.2.0
-python-dotenv==1.0.1
-requests==2.31.0
-urllib3==2.0.4
-psutil==6.0.0
-pycurl==8.1.2
-
+requests
+python-dotenv
